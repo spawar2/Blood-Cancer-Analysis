@@ -1,0 +1,16 @@
+library(affy)
+setwd("/Users/pawar/Desktop/GSE28107_RAW")
+mydata<-ReadAffy()
+image(mydata[,1])
+hist(mydata)
+oligo_normalised <- normalize(mydata,method='quantiles.robust')
+hist(oligo_normalised,lwd=2,xlab='log intensity', which='pm')
+oligo_summarised <- rma(oligo_normalised,background=FALSE,normalize=FALSE)
+expression <- exprs(oligo_summarised)
+CLL_Average <- rowMeans(expression[,c(1,2,3)])
+MM_Average <- rowMeans(expression[,c(4,5,6)])
+Normal_Average <- rowMeans(expression[,c(7,8,9)])
+Fold_change_CLL <- CLL_Average-Normal_Average
+Fold_change_MM <- MM_Average-Normal_Average
+write.csv(Fold_change_CLL,"Fold_change_CLL.csv", row.names = TRUE)
+write.csv(Fold_change_MM,"Fold_change_MM.csv", row.names = TRUE)
