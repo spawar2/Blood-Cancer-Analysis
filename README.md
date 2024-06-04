@@ -2,7 +2,7 @@ This project was in collaboration with *Ms. A Agrawal, University of Connecticu
 
 [R: Affy, Limma]
 
-Title III and Special Initiative Office SEED Funding, Claflin University: Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) (2024): Total Award (direct and indirect) $8,840.00 Github Students involved **Lierra Rivera, **Germari Cull, **Mr. Adrian Lockwood and **Kalyn Wesby. Role: PI, (direct, 100%) 
+Title III and Special Initiative Office SEED Funding, Claflin University: Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) (2024): Total Award (direct and indirect) $8,840.00 Github Students involved **Lierra Rivera Presently doctoral student at Clemson University, Bioengineering Program, **Germari Cull, **Mr. Adrian Lockwood and **Kalyn Wesby. Role: PI, (direct, 100%) 
 https://www.claflin.edu/
 https://www.linkedin.com/in/leiara-rivera-3a3069233
 https://www.linkedin.com/in/adrian-lockwood-703244109
