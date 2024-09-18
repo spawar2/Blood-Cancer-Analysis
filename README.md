@@ -7,7 +7,7 @@ https://www.claflin.edu/ https://github.com/WKalynn Claflin University, Orangebu
 https://github.com/lerivera27
 https://github.com/AdrianL769
 https://github.com/germari
-https://www.claflin.edu/
+https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 https://www.linkedin.com/in/leiara-rivera-3a3069233
 https://www.linkedin.com/in/adrian-lockwood-703244109
 https://www.linkedin.com/in/germari-cull-a9b980264
