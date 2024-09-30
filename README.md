@@ -15,3 +15,6 @@ https://www.linkedin.com/in/germari-cull-a9b980264
 
 Blood-Cancer-Analysis.R: Multiple myeloma Microarray data read, robust multi array (RMA) Normalization, Fold change analysis.
 selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet).
+
+Programming language: + Python.
+π: Classes taught: CSCI/HNTH391/392 (https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-1).
