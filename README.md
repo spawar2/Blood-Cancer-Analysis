@@ -1,5 +1,5 @@
 This project was in collaboration with *Ms. A Agrawal, University of Connecticut, Special Program in Medicine (BS/MD), Experiential Learning Program Project: Identifying biomarkers between lymphoma and leukemia cancer patients (Fall 2021). CT STEM and Norwalk Science Fair (Poster).
-
+December, 9, 2024.
 [R: Affy, Limma].
 
 Title III and Special Initiative Office SEED Funding, Claflin University, Orangeburg, South Carolina, USA: Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) (2024): Total Award (Direct and indirect costs) $8,840.00 Github Students involved **Lierra Rivera  π​++.Presently doctoral student at Clemson University, Bioengineering Program, **Germari Cull π​++., **Mr. Adrian Lockwood (URISE mentor π​++.),  and **Kalyn Wesby. Role: PI, (Direct costs, Effort=100%).  π​++. Co-PI/co-PI (Principal Investigator).
