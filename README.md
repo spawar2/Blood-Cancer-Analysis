@@ -1,4 +1,4 @@
-This project was in collaboration with *Ms. A Agrawal, University of Connecticut, Special Program in Medicine (BS/MD), Experiential Learning Program Project: Identifying biomarkers between lymphoma and leukemia cancer patients (Fall 2021). CT STEM and Norwalk Science Fair (Poster).
+This project was in collaboration with *Ms. A Agrawal, University of Connecticut, Special Program in Medicine (BS/MD), Experiential Learning Program Project: Identifying biomarkers between lymphoma and leukemia cancer patients (Fall 2021). CT STEM and Norwalk Science Fair (Poster Presentation).
 Date created/updated: December, 9, 2024.
 [R: Affy, Limma].
 (May 1, 2024- August 31, 2024).
