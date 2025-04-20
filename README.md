@@ -15,7 +15,12 @@ https://www.linkedin.com/in/leiara-rivera-3a3069233
 https://www.linkedin.com/in/adrian-lockwood-703244109
 https://www.linkedin.com/in/germari-cull-a9b980264
 ![download](https://github.com/spawar2/Blood-Cancer-Analysis/assets/25118302/636830b6-62f2-4c25-9c11-44c52a008b55)
-
+Presentation Video PPT:
+https://campuspress.yale.edu/shrikantpawar/files/2025/03/Adrian-M.-Lockwood.pptx
+https://github.com/spawar2/Prostrate-Cancer-Biomarker-Analysis/tree/main
+https://campuspress.yale.edu/shrikantpawar/files/2025/03/Adrian-Lockwood-300x224.png
+https://campuspress.yale.edu/shrikantpawar/files/2025/04/Kalyn-Wesby.pptx
+https://github.com/spawar2/Prostrate-Cancer-Biomarker-Analysis/tree/main
 Blood-Cancer-Analysis.R: Multiple myeloma Microarray data read, robust multi array (RMA) Normalization, Fold change analysis.
 selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet).
 
